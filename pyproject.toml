@@ -2,7 +2,7 @@
 name = "notas-musicais-base"
 version = "0.1.0"
 description = ""
-authors = ["Alison Américo <alison.americo@znc.com.br>"]
+authors = ["Alison Américo <alison.americo@gmail.com>"]
 readme = "README.md"
 packages = [{include = "notas_musicais_base"}]
 
